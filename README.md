@@ -1,6 +1,8 @@
-# bike-sharing-rental-analysis
+# bike-sharing-rental-analysis case study
 
 This project uses data from a ficticious bike rental company PhillyCycle. 
+The company would like to know what factors 
+most affect bike rentals per hour.
 
 The columns names of the dataset are:
 
